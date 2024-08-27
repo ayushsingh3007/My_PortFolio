@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Software Developer",
+    "organisation": "Mackinlay",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "location": "Tamil nadu,Uttar Pradesh",
+    "experiences": [
+      "Worked on three two four company Projects",
+      "Team leader of that project"
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Developer Intership",
+    "organisation": "Mackinlay Enterprises",
+    "startDate": "March, 2024",
+    "endDate": "July, 2024",
+    "location": "Tamil Nadu, UP",
+    "experiences": [
+      "Worked on HrConnect Pro App",
+      "Worked on Employee Management App"
+    ],
+    "imageSrc": "company/microsoft.png"
+  }
+]
